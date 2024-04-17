@@ -1,0 +1,17 @@
+name: field.blocks.alert.name
+icon: bolt
+
+fields:
+  body:
+    label: field.blocks.alert.body.label
+    type: writer
+    inline: true
+    marks:
+      - bold
+      - italic
+      - link
+      - italic
+    nodes:
+      - bulletList
+      - orderedList
+
