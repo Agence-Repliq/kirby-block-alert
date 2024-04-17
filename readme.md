@@ -1,9 +1,8 @@
 ## How to install
 **With composer** : 
 ```bash
-composer require 
+composer require agence-repliq/kirby-block-alert
 ```
-
 
 
 ## How to dev 
