@@ -1,3 +1,5 @@
+![preview block alert](https://github.com/Agence-Repliq/kirby-block-alert/blob/master/preview.png)
+
 ## How to install
 **With composer** : 
 ```bash

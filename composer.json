@@ -18,7 +18,7 @@
         "installer-name": "kirby-block-alert"
     },
     "support": {
-		"issues": "https://github.com/Agence-Repliq/kirby-block-alert/issues",
+		"docs": "https://github.com/Agence-Repliq/kirby-block-alert/blob/master/readme.md",
 		"source": "https://github.com/Agence-Repliq/kirby-block-alert"
 	},
     "keywords": [
