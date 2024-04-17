@@ -15,7 +15,7 @@
         }
     ],
     "extra": {
-        "installer-name": "kirby-block-accordion"
+        "installer-name": "kirby-block-alert"
     },
     "support": {
 		"issues": "https://github.com/Agence-Repliq/kirby-block-alert/issues",
